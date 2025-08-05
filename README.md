@@ -1,9 +1,9 @@
-🎬 Story to Cartoon Movie
+#🎬 Story to Cartoon Movie
 Turn any short story into a narrated cartoon movie using AI and Python.
 
 This project combines OpenAI (ChatGPT + DALL·E) for scene generation, gTTS for voice-over narration, and MoviePy for video creation — transforming simple text into a playable MP4 animated movie.
 
-✨ Features
+##✨ Features
 🖌️ AI-generated cartoon scenes using DALL·E
 
 🎙️ Automatic voice-over narration with gTTS
