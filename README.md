@@ -61,13 +61,16 @@ Check the output/ folder for your final video.
 ## 🎯 Example Workflow
 Input Story (4 lines):
 
-
 A tiny dragon lived in a bright, cozy cave.
+
 He always dreamed of flying above the tall mountains.
+
 One sunny day, he met a friendly bird who taught him to soar.
+
 Together, they danced in the forest, feeling free and happy.
-Output:  [Video](https://drive.google.com/file/d/1zhrJVQAnDtAoMallj7kdRTqufZ5wrVfp/view?usp=drive_link
-) 
+
+Output:  [Video](https://drive.google.com/file/d/1zhrJVQAnDtAoMallj7kdRTqufZ5wrVfp/view?usp=drive_link)
+
 ## ⚡ Next Improvements
  Optional background music (BGM)
 
