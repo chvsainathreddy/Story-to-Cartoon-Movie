@@ -1,9 +1,9 @@
-#🎬 Story to Cartoon Movie
+# 🎬 Story to Cartoon Movie
 Turn any short story into a narrated cartoon movie using AI and Python.
 
 This project combines OpenAI (ChatGPT + DALL·E) for scene generation, gTTS for voice-over narration, and MoviePy for video creation — transforming simple text into a playable MP4 animated movie.
 
-##✨ Features
+## ✨ Features
 🖌️ AI-generated cartoon scenes using DALL·E
 
 🎙️ Automatic voice-over narration with gTTS
@@ -15,7 +15,7 @@ This project combines OpenAI (ChatGPT + DALL·E) for scene generation, gTTS for 
 🎥 Final output: MP4 video ready to share
 
 
-📂 Project Structure
+## 📂 Project Structure
 
 Story-to-Cartoon-Movie/
 │
@@ -29,7 +29,7 @@ Story-to-Cartoon-Movie/
 └─ output/                 # (Ignored) Final MP4 videos
 ⚠️ By default, images/, voices/, and output/ are ignored via .gitignore to keep the repository lightweight.
 
-🛠 Installation
+## 🛠 Installation
 1️⃣ Clone the repository:
 
 
@@ -58,7 +58,7 @@ Stitch everything into a narrated MP4 video
 
 Check the output/ folder for your final video.
 
-🎯 Example Workflow
+## 🎯 Example Workflow
 Input Story (4 lines):
 
 
@@ -68,13 +68,13 @@ One sunny day, he met a friendly bird who taught him to soar.
 Together, they danced in the forest, feeling free and happy.
 Output: https://drive.google.com/file/d/1zhrJVQAnDtAoMallj7kdRTqufZ5wrVfp/view?usp=drive_link
 
-⚡ Next Improvements
+## ⚡ Next Improvements
  Optional background music (BGM)
 
  Smooth scene transitions (fade in/out)
 
  Export videos in 16:9 for YouTube
 
-📜 License
+## 📜 License
 This project is for educational and personal use.
 Generated videos can be shared, but verify music/image licenses if publishing commercially.
