@@ -17,16 +17,26 @@ This project combines OpenAI (ChatGPT + DALL·E) for scene generation, gTTS for 
 
 ## 📂 Project Structure
 
-Story-to-Cartoon-Movie/
+Story-to-Cartoon-Movie/ 
+
 │
+
 ├─ notebook.ipynb          # Main Jupyter notebook (full pipeline)
+
 ├─ requirements.txt        # Project dependencies
+
 ├─ README.md               # Project description (this file)
+
 ├─ .gitignore              # Ignores output, voices, and large files
+
 │
+
 ├─ images/                 # AI-generated images per scene
+
 ├─ voices/                 # gTTS-generated voice files
+
 └─ output/                 # (Ignored) Final MP4 videos
+
 ⚠️ By default, images/, voices/, and output/ are ignored via .gitignore to keep the repository lightweight.
 
 ## 🛠 Installation
