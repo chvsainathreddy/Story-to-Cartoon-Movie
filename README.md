@@ -27,8 +27,6 @@ Story-to-Cartoon-Movie/
 
 ├─ README.md               # Project description (this file)
 
-├─ .gitignore              # Ignores output, voices, and large files
-
 │
 
 ├─ images/                 # AI-generated images per scene
